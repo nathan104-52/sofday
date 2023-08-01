@@ -1,0 +1,32 @@
+h1{
+  font-size: 40px;
+  
+}
+section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+font-family: 'Kenia', cursive;   
+  line-height: 14.2px;
+  background-image: url(restau\ .jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+color: black;
+  text-align: center;
+  
+}
+div{
+background-color: azure;
+  padding: 12px;
+border-radius: 30px 0px 30px 0px;
+}
+.envoyer{
+  margin-top: 20px;
+
+background-color: wheat;
+}
